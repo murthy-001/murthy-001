@@ -1,4 +1,4 @@
-# SDM-Spring2023 Open Source Maintenance Portfolio
+# SDM-Spring2023 Maintenance Portfolio
 This online portfolio showcases my significant contributions to the open-source project PantryNode. Through this portfolio, I have documented and highlighted my valuable contributions, demonstrating my active involvement and dedication to maintaining the PantryNode project. It serves as a comprehensive record of my accomplishments, demonstrating my expertise in open-source development and my commitment to the software development community.
 
 # Highlights
