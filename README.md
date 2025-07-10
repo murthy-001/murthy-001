@@ -36,10 +36,6 @@ I'm a passionate **Software Developer** with experience in building scalable and
 - Built a cross-platform mobile app to connect pet adopters with shelters.
 - Integrated real-time chat and geolocation features for enhanced user experience.
 
-### **Satellite Image Analysis** *(Python, DVC, GCP)*
-- Developed ML models for land-use classification and environmental monitoring.
-- Managed large datasets with DVC and automated workflows using GitHub Actions.
-
 ### **WiFi Direct File Transfer** *(Flutter, Android)*
 - Created a peer-to-peer file transfer app for Android devices without internet.
 - Implemented fast file transfer protocols and a user-friendly interface.
@@ -61,8 +57,8 @@ I'm a passionate **Software Developer** with experience in building scalable and
 ## 📫 Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/srinivasa-murthy/)
-- [Email](mailto:srinivasamurthy1996@gmail.com)
-- [Portfolio](https://github.com/srinivasamurthy)
+- [Email](mailto:srinivasamurthyk1996@gmail.com)
+- [Portfolio](https://www.srinivasa-murthy.com)
 
 ---
 
