@@ -16,14 +16,14 @@ I'm a passionate **Software Developer** with experience in building scalable and
 
 ## 💼 Work Experience
 
-### **Software Developer, Accenture** *(Jan 2024 – Present | Remote, USA)*
-- Designed and developed high-performance applications using Java and Python.
-- Built and integrated secure, scalable RESTful APIs, optimizing data transfer by 25%.
-- Enhanced data processing algorithms, boosting system efficiency by 22%.
-- Led Agile development efforts, improving project delivery speed by 28%.
+### **Software Engineer, CSU,Chico** *(Jul 2024 – Present | Hybrid, USA)*
+- Designed and developed high-performance backend components using Python, Django, and Docker.
+- Implemented and integrated secure, modular RESTful APIs to decouple user submission, test execution, and feedback components. Boosted scalability and reduced response latency by 25%.
+- Refined data handling by reworking algorithms and applying efficient data structures. Achieved a 22% increase in processing speed and reduced resource usage.
+- Led collaborative development in an Agile environment, coordinating with cross-functional contributors to prioritize tasks and accelerate milestone delivery by 28%.
 
-### **Software Developer, IBM** *(Mar 2018 – Jul 2022 | India)*
-- Architected backend systems for millions of users, improving system stability by 25%.
+### **Software Developer, Tally Solutions Pvt. Ltd.** *(Mar 2018 – Jul 2022 | India)*
+- Architected and developed backend systems with Java and Python, building high-performance services that supported millions of concurrent users and improving system stability by 25%.
 - Deployed microservices using Spring Boot, reducing response times by 20%.
 - Managed relational and NoSQL databases, ensuring fast and reliable data access.
 - Created reusable software libraries, cutting development time by 30%.
