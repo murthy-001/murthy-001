@@ -17,16 +17,19 @@ I'm a passionate **Software Developer** with experience in building scalable and
 ## 💼 Work Experience
 
 ### **Software Engineer, CSU,Chico** *(Jul 2024 – Present | Hybrid, USA)*
-- Designed and developed high-performance backend components using Python, Django, and Docker.
-- Implemented and integrated secure, modular RESTful APIs to decouple user submission, test execution, and feedback components. Boosted scalability and reduced response latency by 25%.
-- Refined data handling by reworking algorithms and applying efficient data structures. Achieved a 22% increase in processing speed and reduced resource usage.
-- Led collaborative development in an Agile environment, coordinating with cross-functional contributors to prioritize tasks and accelerate milestone delivery by 28%.
+- Built high-performance back-end components (Python, Django, Docker), increasing CodeWit.us throughput by 27%.
+- Designed modular RESTful APIs to handle user submissions, test grading, and feedback, shortening response latency by 18%.
+- Optimized data flow using efficient algorithms and structures, boosting performance by 7.5% and reducing compute overhead.
+- Refactored critical modules to eliminate redundant logic, lower technical debt by 16%, and improve long-term system stability.
+- Led cross-functional Agile sprints, aligning priorities and accelerating milestone delivery by 23%.
 
 ### **Software Developer, Tally Solutions Pvt. Ltd.** *(Mar 2018 – Jul 2022 | India)*
-- Architected and developed backend systems with Java and Python, building high-performance services that supported millions of concurrent users and improving system stability by 25%.
-- Deployed microservices using Spring Boot, reducing response times by 20%.
-- Managed relational and NoSQL databases, ensuring fast and reliable data access.
-- Created reusable software libraries, cutting development time by 30%.
+- Engineered inventory microservices (Java, Spring Boot, MySQL), enhancing procurement accuracy by 30% and cutting delivery mismatches across 15+ regional warehouses.
+- Integrated Redis caching to reduce redundant DB queries, slashing API latency by 22% during peak reconciliation loads.
+- Modularized back-end logic for finance and billing, speeding up feature delivery by 23% and cutting QA rework by 14%.
+- Delivered interactive billing dashboards (React and REST APIs), accelerating dispute resolution by 1.66 hours per ticket.
+- Secured APIs via JWT-based RBAC, reducing unauthorized access by 13% and simplifying role control for regional admins.
+- Partnered with product managers to align the back-end invoice logic with compliance policies, improving audit accuracy by 15% over two fiscal cycles.
 
 ---
 
