@@ -77,4 +77,4 @@ Software Developer with 4+ years of experience building secure, high-performance
 
 ---
 
-🚀 **Let's build something amazing together!**
+🚀 **Let's build something amazing together!** 
