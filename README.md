@@ -19,12 +19,17 @@ Software Developer with 4+ years of experience building secure, high-performance
 
 ## 💼 Work Experience
 
-### **Software Engineer, CSU,Chico** *(Jul 2024 – Present | Hybrid, USA)*
-- Built high-performance back-end components (Python, Django, Docker), increasing CodeWit.us throughput by 27%.
-- Designed modular RESTful APIs to handle user submissions, test grading, and feedback, shortening response latency by 18%.
-- Optimized data flow using efficient algorithms and structures, boosting performance by 7.5% and reducing compute overhead.
-- Refactored critical modules to eliminate redundant logic, lower technical debt by 16%, and improve long-term system stability.
-- Led cross-functional Agile sprints, aligning priorities and accelerating milestone delivery by 23%.
+### **Software Developer, TCS** *(Jul 2024 – Present, USA)*
+- Delivered high-performance applications with Java and Spring Boot, leveraging multi-threading and async processing to cut
+system load and improve efficiency.
+- Built and optimized API gateways using REST, accelerating data transfers and ensuring seamless communication across
+distributed cloud services.
+- Designed stateless backend service architectures to safely handle high concurrency and support horizontal scaling.
+- Refactored workflows and optimized data structures to reduce memory usage and improve processing stability under high load.
+- Drove automated testing with JUnit and Mockito, raising test coverage to 92%, minimizing defects, and ensuring reliable CI/CD
+releases.
+- Deployed cloud-native solutions with Docker, Kubernetes, and AWS, enabling auto-scaling,improving resilience, and lowering
+infra costs.
 
 ### **Software Developer, Tally Solutions Pvt. Ltd.** *(Mar 2018 – Jul 2022 | India)*
 - Engineered inventory microservices (Java, Spring Boot, MySQL), enhancing procurement accuracy by 30% and cutting delivery mismatches across 15+ regional warehouses.
