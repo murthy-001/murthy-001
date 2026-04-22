@@ -6,8 +6,8 @@ Software Developer with 4+ years of experience building secure, high-performance
 
 ## 🌟 Skills & Technologies
 
-- **Languages:** Python, Java, C++, JavaScript, TypeScript, SQL
-- **Frameworks:** Spring Boot, React, Django, Angular, Node.js, Express.js
+- **Languages:** Java, Python, TypeScript, SQL
+- **Frameworks:** Spring Boot, React
 - **Frontend:** HTML5, CSS3, Bootstrap, Tailwind
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions
