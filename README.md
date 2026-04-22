@@ -19,25 +19,10 @@ Software Developer with 4+ years of experience building secure, high-performance
 
 ## 💼 Work Experience
 
-### **Software Developer, TCS** *(Jul 2024 – Present, USA)*
-- Delivered high-performance applications with Java and Spring Boot, leveraging multi-threading and async processing to cut
-system load and improve efficiency.
-- Built and optimized API gateways using REST, accelerating data transfers and ensuring seamless communication across
-distributed cloud services.
-- Designed stateless backend service architectures to safely handle high concurrency and support horizontal scaling.
-- Refactored workflows and optimized data structures to reduce memory usage and improve processing stability under high load.
-- Drove automated testing with JUnit and Mockito, raising test coverage to 92%, minimizing defects, and ensuring reliable CI/CD
-releases.
-- Deployed cloud-native solutions with Docker, Kubernetes, and AWS, enabling auto-scaling,improving resilience, and lowering
-infra costs.
+### **Software Developer, Walmart** *(Oct 2024 – Present, USA)*
 
-### **Software Developer, Tally Solutions Pvt. Ltd.** *(Mar 2018 – Jul 2022 | India)*
-- Engineered inventory microservices (Java, Spring Boot, MySQL), enhancing procurement accuracy by 30% and cutting delivery mismatches across 15+ regional warehouses.
-- Integrated Redis caching to reduce redundant DB queries, slashing API latency by 22% during peak reconciliation loads.
-- Modularized back-end logic for finance and billing, speeding up feature delivery by 23% and cutting QA rework by 14%.
-- Delivered interactive billing dashboards (React and REST APIs), accelerating dispute resolution by 1.66 hours per ticket.
-- Secured APIs via JWT-based RBAC, reducing unauthorized access by 13% and simplifying role control for regional admins.
-- Partnered with product managers to align the back-end invoice logic with compliance policies, improving audit accuracy by 15% over two fiscal cycles.
+
+### **Software Developer, Tally Solutions Pvt. Ltd.** *(Jun 2018 – Jul 2022 | India)*
 
 ---
 
